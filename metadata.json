@@ -1,0 +1,6 @@
+{
+  "name": "Rekap Faktur PBF Farmasi",
+  "description": "Aplikasi rekapitulasi pembelian obat dari faktur PBF dengan ekstraksi teks regex, scan foto galeri, diskon bertingkat, dan validasi data otomatis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
